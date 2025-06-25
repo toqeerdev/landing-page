@@ -122,6 +122,36 @@ img {
     color: #5a5c5c;
     width: 170px;
 }
+/* end of second section */
+
+
+/* start of third section */
+
+.section-three {
+    background-color: #E5E7EB;
+    padding: 100px 150px 100px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    color: #424549;
+    width: 820px;
+}
+
+.quotation {
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 500px;
+}
+/* end of third section */
+
+
+
+
 
 
 
