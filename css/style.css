@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    height: 100vh;
 }
 
 * {
@@ -77,11 +78,11 @@ img {
 .text-content {
     width: 450px;
 }
-/* end of first section */
+/**********/
 
 
 
-/* start of second section */
+/* second section */
 .title {
     font-size: 36px;
     font-weight: 900;
@@ -122,10 +123,10 @@ img {
     color: #5a5c5c;
     width: 170px;
 }
-/* end of second section */
+/**********/
 
 
-/* start of third section */
+/* third section */
 
 .section-three {
     background-color: #E5E7EB;
@@ -147,7 +148,52 @@ img {
     font-size: 26px;
     margin-left: 500px;
 }
-/* end of third section */
+/***********/
+
+
+/* fourth section */
+.section-four {
+    display: flex;
+    padding: 100px 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-four {
+   border-radius: 10px;
+   height: 150px;
+   width: 1000px;
+   background-color: #3882F6;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   color: white;
+}
+
+.action {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+
+.sign-up {
+   color: #E5E7EB;
+   font-size: 18px;
+}
+
+.sign-up-button {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 2px solid white;
+    width: 120px;
+    height: 34px;
+}
+/**********/
+
+
 
 
 
